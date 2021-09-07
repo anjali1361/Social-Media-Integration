@@ -25,7 +25,7 @@
 ------------------------------------------
 
 ### Phone Sign in
-<img src="https://github.com/anjali1361/Social-Media-Integration/blob/main/images/PhoneSignIn.jpeg" width ="250px" height ="450px"> <img src="https://github.com/anjali1361/Banking-Application/blob/main/Real%20Time%20App%20Images/EnteredAmountVerification.jpeg" width ="250px" height ="450px">   
+<img src="https://github.com/anjali1361/Social-Media-Integration/blob/main/images/PhoneSignIn.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
